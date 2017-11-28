@@ -1,4 +1,7 @@
 # cc-validator
+## System Dependencies
+* Node.js version 6 or higher
+
 ## Setup
 `yarn install` or `npm install`
 
